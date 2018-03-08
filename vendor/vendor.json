@@ -11,7 +11,8 @@
 	],
 	"rootPath": "gitub.com/slavaromanov/dancer",
   "heroku": {
-    "install": "./...",
+    "build": "./",
+    "install": "./",
     "goVersion": "go1.9.4"
   }
 }
